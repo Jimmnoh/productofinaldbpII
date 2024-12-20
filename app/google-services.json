@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083891022917",
+    "project_id": "finan-7ddaf",
+    "storage_bucket": "finan-7ddaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083891022917:android:6a9d70f42509446b5d772c",
+        "android_client_info": {
+          "package_name": "com.example.finanfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBVMEXZ9ah4nq9mg36JAdY3Kq8QgaMzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
